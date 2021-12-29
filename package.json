@@ -9,6 +9,9 @@
   "publishConfig": {
     "registry": "https://craigmiller160.ddns.net:30003/repository/npm-private/"
   },
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
   "peerDependencies": {
     "eslint": "^8.5.0",
     "prettier": "^2.5.1"
