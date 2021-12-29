@@ -9,6 +9,10 @@
   "publishConfig": {
     "registry": "https://craigmiller160.ddns.net:30003/repository/npm-private/"
   },
+  "peerDependencies": {
+    "eslint": "^8.5.0",
+    "prettier": "^2.5.1"
+  },
   "dependencies": {
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0"
