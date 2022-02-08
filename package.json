@@ -1,6 +1,6 @@
 {
   "name": "@craigmiller160/eslint-config-prettier",
-  "version": "1.0.0-beta",
+  "version": "1.0.0",
   "main": ".eslintrc.js",
   "files": [
     ".eslintrc.js"
