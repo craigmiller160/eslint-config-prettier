@@ -1,13 +1,13 @@
 {
   "name": "@craigmiller160/eslint-config-prettier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": ".eslintrc.js",
   "files": [
     ".eslintrc.js"
   ],
   "author": "craigmiller160",
   "publishConfig": {
-    "registry": "https://craigmiller160.ddns.net:30003/repository/npm-private/"
+    "registry": "https://nexus-craigmiller160.ddns.net/repository/npm-private/"
   },
   "scripts": {
     "build": "echo 'No build needed'"
