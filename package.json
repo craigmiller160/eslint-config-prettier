@@ -1,6 +1,6 @@
 {
   "name": "@craigmiller160/eslint-config-prettier",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": ".eslintrc.js",
   "files": [
     ".eslintrc.js"
@@ -17,7 +17,7 @@
     "prettier": "^2.5.1"
   },
   "dependencies": {
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^4.0.0"
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1"
   }
 }
